@@ -1,7 +1,7 @@
 <div align="center">
   <h1>tree-sitter-kc</h1>
   <p>
-    <a href="http://advsys.net/projects/evaldraw.htm" target="_blank">EVALDRAW</a>
+    <a href="http://www.advsys.net/ken/download.htm#evaldraw" target="_blank">EVALDRAW</a>
     RScript grammar for <a href="https://github.com/tree-sitter/tree-sitter">tree-sitter</a>.
   </p>
 </div>
